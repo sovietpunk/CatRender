@@ -1,0 +1,22 @@
+# Vulkan SDK
+/sdk/
+
+# CLion / CMake
+.idea/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# 编译产物
+*.exe
+*.obj
+*.o
+*.a
+*.dll
+
+# 临时文件
+*.log
+*.tmp
+
+*.zip
